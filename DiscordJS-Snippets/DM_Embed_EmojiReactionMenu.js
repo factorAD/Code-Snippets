@@ -1,3 +1,5 @@
+//   "How to use reactions to create multi-page menus like         //
+//                 Zirabot -- but in DM's"                         //
 //   Send a help menu RichEmbed in a DM with multiple pages        //
 //   Allows the user to scroll through the pages with reactions    //
 //                                                                 //
